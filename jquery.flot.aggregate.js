@@ -12,7 +12,7 @@ The possible values for aggregate are:
 	null,"count","min","max","avg", or "sum"
 
 Can be used with categories consider a dataset like
-	$.plot("#placeholder", data, { xaxis: { aggregate: "count" } }); 
+	$.plot("#placeholder", data, { xaxis: { mode:"categories", aggregate: "count" } }); 
 	[["Pass", 1], ["Fail", 1], ["Pass", 1]...].
 
 */
