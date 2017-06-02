@@ -4,6 +4,6 @@
     "main": "jquery.flot.aggregate.js",
     "dependencies": {
         "Flot": "github:flot/flot#0.8.3",
-        "jquery": "0"
+        "jquery": "*"
     }
 }
