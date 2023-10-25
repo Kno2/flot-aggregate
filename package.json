@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "main": "jquery.flot.aggregate.js",
     "dependencies": {
-        "Flot": "github:flot/flot#v0.8.3",
+        "Flot": "https://github.com/flot/flot#v0.8.3",
         "jquery": "*"
     }
 }
